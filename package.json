@@ -19,7 +19,7 @@
   },
   "main": "./lib/mailcomposer",
   "dependencies": {
-    "buildmail": "4.0.1",
+    "buildmail": "git+https://github.com/azarue/buildmail.git#v4.0.1",
     "libmime": "3.0.0"
   },
   "devDependencies": {
